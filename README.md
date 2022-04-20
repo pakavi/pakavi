@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, welcome to my profile ✋
 
-<!--
-**pakavi/pakavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and cyber security enthusiast
 
-Here are some ideas to get you started:
+## Technologies i'm using 💻
+* React
+* Next
+* Sanity
+* Alchemy
+* Moralis
+* Metamask
+* Thirdweb
+* Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🔥
+* HTML
+* CSS
+* Javascript
+* Node
+* VS Code
+* Postman
+* Git
+* Github
+* Linux
+* Docker
