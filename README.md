@@ -20,10 +20,12 @@ I would also like to help other developers to reach their goals
 * HTML
 * CSS
 * Javascript
+* Typescript
 * Node
 * VS Code
 * Postman
 * Git
-* Github
 * Linux
 * Docker
+<br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
