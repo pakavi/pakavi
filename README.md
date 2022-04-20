@@ -1,8 +1,8 @@
 # Hello, welcome to my profile ✋
 
-My name is Ville i'm a web developer and cyber security enthusiast
+I'm a web developer and cyber security enthusiast
 
-Currently working hard on my portfolio and try to level up my skills in many areas
+Currently working on my portfolio and try to level up my skills in many areas
 
 I would also like to help other developers to reach their goals
 
