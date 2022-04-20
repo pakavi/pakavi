@@ -16,7 +16,7 @@ I would also like to help other developers to reach their goals
 * Thirdweb
 * Tailwind
 
-## Skills 🔥
+## Main skills 🔥
 * HTML
 * CSS
 * Javascript
