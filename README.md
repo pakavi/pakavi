@@ -22,6 +22,7 @@ I would also like to help other developers to reach their goals
 * Javascript
 * Typescript
 * Node
+* Mongo
 * VS Code
 * Postman
 * Git
