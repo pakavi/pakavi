@@ -32,7 +32,7 @@ I would also like to help other developers to reach their goals
 - 2 personal projects ☑️ unfinished
 
 ## Project showcase
-[premier-league-app](https://github.com/pakavi/premier-league-app)
+[Premier league football app](https://github.com/pakavi/premier-league-app)
 
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
