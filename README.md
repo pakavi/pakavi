@@ -30,5 +30,9 @@ I would also like to help other developers to reach their goals
 ## Goals 😎
 - 5 portfolio projects ✅ finished
 - 2 personal projects ☑️ unfinished
+
+## Project showcase
+[premier-league-app](https://github.com/pakavi/premier-league-app)
+
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
