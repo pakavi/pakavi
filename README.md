@@ -9,12 +9,12 @@ I would also like to help other developers to reach their goals
 ## Technologies i'm using 💻
 * React
 * Next
+* Typescript
+* Tailwind
 * Sanity
 * Alchemy
-* Moralis
 * Metamask
 * Thirdweb
-* Tailwind
 
 ## Main skills 🔥
 * HTML
