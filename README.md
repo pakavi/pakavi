@@ -28,7 +28,7 @@ I would also like to help other developers to reach their goals
 * Git
 
 ## Goals 😎
-- 5 portfolio projects ✅ finished
+- 3 portfolio projects ✅ finished
 - 2 personal projects ☑️ unfinished
 
 ## Project showcase
