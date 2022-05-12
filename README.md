@@ -32,8 +32,8 @@ I would also like to help other developers to reach their goals
 - 2 personal projects ☑️ unfinished
 
 ## Project showcase
-[MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
-[MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
+- [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
+- [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
 
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
