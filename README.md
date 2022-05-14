@@ -11,8 +11,8 @@ I would also like to help other developers to reach their goals
 * Next
 * Typescript
 * Tailwind
+* Material UI
 * Sanity
-* Alchemy
 * Metamask
 * Thirdweb
 
