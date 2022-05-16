@@ -27,10 +27,6 @@ I would also like to help other developers to reach their goals
 * Postman
 * Git
 
-## Goals 😎
-- 3 portfolio projects ✅ finished
-- 2 personal projects ☑️ unfinished
-
 ## Project showcase
 - [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
 - [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
