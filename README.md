@@ -23,8 +23,6 @@ Currently working on my portfolio and try to level up my skills in many areas
 * VS Code
 * Git
 
-<br />
-
 ## Project showcase
 #### MERN app
 - [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
