@@ -23,6 +23,8 @@ Currently working on my portfolio and try to level up my skills in many areas
 * VS Code
 * Git
 
+<br />
+
 ## Project showcase
 #### MERN app
 - [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
@@ -33,5 +35,5 @@ Currently working on my portfolio and try to level up my skills in many areas
 - [Realtime chat message app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
 
 <br />
-<br />
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
