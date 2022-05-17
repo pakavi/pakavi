@@ -13,7 +13,6 @@ I would also like to help other developers to reach their goals
 * Tailwind
 * Material UI
 * Sanity
-* Metamask
 * Thirdweb
 
 ## Main skills 🔥
@@ -24,7 +23,6 @@ I would also like to help other developers to reach their goals
 * Node
 * Mongo
 * VS Code
-* Postman
 * Git
 
 ## Project showcase
