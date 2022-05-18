@@ -24,11 +24,11 @@ Currently working on my portfolio and try to level up my skills in many areas
 * Git
 
 ## Project showcase
-#### MERN app
+#### MERN
 - [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
 - [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
 
-#### Realtime chat app
+#### Realtime chat
 - [Realtime chat message app (client)](https://github.com/pakavi/realtime-chat-message-app)
 - [Realtime chat message app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
 
