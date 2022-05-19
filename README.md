@@ -2,7 +2,7 @@
 
 I'm a web developer and cyber security enthusiast
 
-Currently working on my portfolio and try to level up my skills in many areas
+Working on my portfolio and helping others
 
 ## Technologies i'm using 💻
 * React
