@@ -28,7 +28,7 @@ Working on my portfolio and helping others
 - [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
 - [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
 
-#### Realtime chat
+#### Realtime
 - [Realtime chat message app (client)](https://github.com/pakavi/realtime-chat-message-app)
 - [Realtime chat message app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
 
