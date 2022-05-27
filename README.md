@@ -4,23 +4,17 @@ I'm a web developer and cyber security enthusiast
 
 Currently working on my portfolio and helping others
 
-## Technologies i'm using 💻
-* React
-* Next
-* Typescript
-* Tailwind
-* Material UI
-* Sanity
-* Thirdweb
-
 ## Main skills 🔥
 * HTML
 * CSS
 * Javascript
 * Typescript
+* React
+* Next
 * Node
 * Mongo
 * VS Code
+* Postman
 * Git
 
 ## Project showcase
