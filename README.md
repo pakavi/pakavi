@@ -19,12 +19,14 @@ Currently working on my portfolio and helping others
 
 ## Project showcase 💻
 #### MERN
-- [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
-- [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
+[MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
+<br />
+[MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
 
 #### Realtime
-- [Realtime chat app (client)](https://github.com/pakavi/realtime-chat-message-app)
-- [Realtime chat app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
+[Realtime chat app (client)](https://github.com/pakavi/realtime-chat-message-app)
+<br />
+[Realtime chat app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
 
 <br />
 
