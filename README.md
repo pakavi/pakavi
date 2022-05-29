@@ -18,6 +18,7 @@ Currently working on my portfolio and helping others
 * Git
 
 ## Project showcase 💻
+
 #### MERN
 [MERN social media app (client)](https://github.com/pakavi/mern-social-media-app)
 <br />
@@ -27,6 +28,9 @@ Currently working on my portfolio and helping others
 [Realtime chat app (client)](https://github.com/pakavi/realtime-chat-message-app)
 <br />
 [Realtime chat app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
+
+#### Crypto
+[Coinbase clone](https://github.com/pakavi/coinbase-clone)
 
 <br />
 
