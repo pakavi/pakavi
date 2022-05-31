@@ -29,9 +29,6 @@ Currently working on my portfolio and helping others
 <br />
 [Realtime chat app (server)](https://github.com/pakavi/realtime-chat-message-app-server)
 
-#### Crypto
-[Coinbase clone](https://github.com/pakavi/coinbase-clone)
-
 <br />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
