@@ -20,8 +20,7 @@ Currently working on my portfolio and helping others
 ## Project showcase 💻
 
 #### MERN
-- [MERN social media app](https://github.com/pakavi/mern-social-media-app)
-- [MERN social media app (server)](https://github.com/pakavi/mern-social-media-app-server)
+- [Modern MERN stack](https://github.com/pakavi/mern-stack-react-node)
 
 <br />
 
