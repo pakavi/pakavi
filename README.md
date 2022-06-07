@@ -22,6 +22,9 @@ Currently working on my portfolio and helping others
 #### MERN
 - [Modern MERN App](https://github.com/pakavi/mern-stack-react-node)
 
+### React
+- [Modern React App](https://github.com/pakavi/modern-react-app)
+
 <br />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
