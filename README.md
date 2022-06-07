@@ -20,7 +20,7 @@ Currently working on my portfolio and helping others
 ## Project showcase 💻
 
 #### MERN
-- [Modern MERN stack](https://github.com/pakavi/mern-stack-react-node)
+- [Modern MERN App](https://github.com/pakavi/mern-stack-react-node)
 
 <br />
 
