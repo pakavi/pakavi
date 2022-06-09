@@ -8,9 +8,7 @@ Currently working on my portfolio and helping others
 * HTML
 * CSS
 * Javascript
-* Typescript
 * React
-* Next
 * Node
 * Mongo
 * VS Code
