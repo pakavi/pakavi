@@ -19,10 +19,8 @@ Currently working on my portfolio and helping others
 
 ## Project showcase 💻
 
-#### MERN
 - [Modern MERN Stack](https://github.com/pakavi/modern-mern-stack)
 
-### React
 - [Modern React App](https://github.com/pakavi/modern-react-app)
 
 <br />
