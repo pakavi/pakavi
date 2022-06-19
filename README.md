@@ -15,12 +15,5 @@ Currently working on my portfolio and helping others
 * Postman
 * Git
 
-## Project showcase 💻
-
-- [Modern MERN Stack](https://github.com/pakavi/modern-mern-stack)
-
-- [Modern React App](https://github.com/pakavi/modern-react-app)
-
-<br />
-
+<br/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pakavi&layout=dev">
